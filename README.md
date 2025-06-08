@@ -3,7 +3,7 @@
   🌐 Full-Stack Explorer &nbsp;|&nbsp; 📊 Data Science Enthusiast &nbsp;|&nbsp; 🚀 Lifelong Learner  
 </p>
 
-
+---
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=800&height=60&lines=Transforming+Ideas+into+Impactful+Digital+Solutions;Exploring+Data%2C+Design+and+Engineering;Building+Modern%2C+Scalable+Applications" alt="Typing animation" />
 </p>
