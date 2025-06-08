@@ -3,18 +3,18 @@
   🌐 Full-Stack Explorer &nbsp;|&nbsp; 📊 Data Science Enthusiast &nbsp;|&nbsp; 🚀 Lifelong Learner  
 </p>
 
----
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=800&height=60&lines=Transforming+Ideas+into+Impactful+Digital+Solutions;Exploring+Data%2C+Design+and+Engineering;Building+Modern%2C+Scalable+Applications" alt="Typing animation" />
 </p>
+
 ---
 
 ### 🚀 What I Do
 
-- 🔧 Build full-stack applications with thoughtful design and reliable backend architecture
-- 📊 Uncover insights from data using modern analytics tools and machine learning techniques
-- 💡 Bridge logic, creativity, and data to create impactful digital experiences
-- 🌱 Continuously learning, building, and improving
+- 🔧 Build full-stack applications with thoughtful design and scalable backend architecture  
+- 📊 Uncover insights from data using modern analytics tools and machine learning techniques  
+- 💡 Bridge logic, creativity, and data to create impactful digital experiences  
+- 🌱 Continuously learning, building, and improving  
 
 ---
 
@@ -49,17 +49,17 @@
 
 ### 📚 Focus Areas
 
-- 🧠 Advanced analytics with `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`
-- 📈 Interactive dashboards and reports using tools like `Power BI`
-- 🌐 End-to-end app development with integrated data pipelines and clean UI/UX
+- 🧠 Advanced analytics with `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`  
+- 📈 Interactive dashboards and reports using tools like `Power BI`  
+- 🌐 End-to-end app development with integrated data pipelines and clean UI/UX  
 
 ---
 
 ### 🎯 Goals
 
-- Deliver smart, data-powered web applications
-- Solve meaningful problems with scalable solutions
-- Collaborate on exciting projects that create real-world impact
+- 🚀 Deliver smart, data-powered web applications  
+- 🧩 Solve meaningful problems with scalable solutions  
+- 🤝 Collaborate on exciting projects that create real-world impact  
 
 ---
 
