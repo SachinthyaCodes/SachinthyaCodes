@@ -9,18 +9,18 @@
 
 ---
 
-### 🚀 What I Do
+###  What I Do
 
-- 🔧 Build full-stack applications with thoughtful design and scalable backend architecture  
-- 📊 Uncover insights from data using modern analytics tools and machine learning techniques  
-- 💡 Bridge logic, creativity, and data to create impactful digital experiences  
-- 🌱 Continuously learning, building, and improving  
+-  Build full-stack applications with thoughtful design and scalable backend architecture  
+-  Uncover insights from data using modern analytics tools and machine learning techniques  
+-  Bridge logic, creativity, and data to create impactful digital experiences  
+-  Continuously learning, building, and improving  
 
 ---
 
-### 🛠️ Tech Toolbox
+###  Tech Toolbox
 
-#### 💻 Languages & Frameworks  
+####  Languages & Frameworks  
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript)
@@ -28,18 +28,18 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin)
 
-#### 🌐 Frontend  
+####  Frontend  
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3)
 
-#### ⚙️ Backend & Tools  
+####  Backend & Tools  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=spring-boot)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express)
 
-#### 🧠 Databases & Cloud  
+####  Databases & Cloud  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase)
@@ -47,23 +47,23 @@
 
 ---
 
-### 📚 Focus Areas
+### Focus Areas
 
-- 🧠 Advanced analytics with `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`  
-- 📈 Interactive dashboards and reports using tools like `Power BI`  
-- 🌐 End-to-end app development with integrated data pipelines and clean UI/UX  
-
----
-
-### 🎯 Goals
-
-- 🚀 Deliver smart, data-powered web applications  
-- 🧩 Solve meaningful problems with scalable solutions  
-- 🤝 Collaborate on exciting projects that create real-world impact  
+-  Advanced analytics with `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`  
+-  Interactive dashboards and reports using tools like `Power BI`  
+   End-to-end app development with integrated data pipelines and clean UI/UX  
 
 ---
 
-### 📈 GitHub Highlights
+###  Goals
+
+-  Deliver smart, data-powered web applications  
+-  Solve meaningful problems with scalable solutions  
+- Collaborate on exciting projects that create real-world impact  
+
+---
+
+###  GitHub Highlights
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sachinthya&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -77,7 +77,7 @@
 
 ---
 
-### 🤝 Let’s Connect
+###  Let’s Connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sachinthya-lakshitha/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
@@ -86,4 +86,4 @@
 
 ---
 
-<p align="center">✨ Let's turn data & code into something meaningful. ✨</p>
+<p align="center"> Let's turn data & code into something meaningful. </p>
